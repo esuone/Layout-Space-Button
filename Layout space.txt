@@ -1,4 +1,0 @@
-[ISubPalette,Macro:Space]
- 
-[IButton,"Macros:Space:SpaceL_1","tada no space no button de arimasu",
-,,1,,img.bmp,40]
