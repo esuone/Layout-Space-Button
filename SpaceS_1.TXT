@@ -1,0 +1,2 @@
+﻿[IButton,???,"tada no space no button de arimasu",
+,,1/4,,img.bmp,19]
